@@ -1,4 +1,4 @@
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com/reallykrak/dddd/main/nbr.lua'))()
 
 
 -- this is the old source that is deprecated, I know this is open source so don't come to me saying "hey i got your source"
@@ -3311,3 +3311,4 @@ discord server: https://discord.gg/zrAB2m5gvz
 
 
 --]]
+
